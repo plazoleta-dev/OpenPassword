@@ -1,13 +1,11 @@
+<!-- OpenPassword logo: blue shield with a white padlock. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp" android:height="108dp"
-    android:viewportWidth="108" android:viewportHeight="108">
-    <!-- Shackle -->
-    <path android:fillColor="#00000000" android:strokeColor="#EAF4F1" android:strokeWidth="6"
-        android:pathData="M42,50 V42 a12,12 0 0 1 24,0 V50" />
-    <!-- Body -->
-    <path android:fillColor="#EAF4F1"
-        android:pathData="M36,50 h36 a4,4 0 0 1 4,4 v20 a4,4 0 0 1 -4,4 h-36 a4,4 0 0 1 -4,-4 v-20 a4,4 0 0 1 4,-4 z" />
-    <!-- Keyhole -->
-    <path android:fillColor="#0E6B5C"
-        android:pathData="M54,58 a4,4 0 0 1 2,7.5 v4.5 h-4 v-4.5 a4,4 0 0 1 2,-7.5 z" />
+    android:viewportWidth="822" android:viewportHeight="822">
+    <group android:translateX="-293" android:translateY="40.5">
+        <path android:fillColor="#0C5EC4" android:pathData="M704,178 C750,198 810,220 868,234 Q884,238 884,256 V340 C884,450 820,540 704,589 C588,540 524,450 524,340 V256 Q524,238 540,234 C598,220 658,198 704,178 Z" />
+        <path android:fillColor="#0B54B2" android:pathData="M704,178 C750,198 810,220 868,234 Q884,238 884,256 V340 C884,450 820,540 704,589 Z" />
+        <path android:fillColor="#00000000" android:strokeColor="#FFFFFFFF" android:strokeWidth="22" android:pathData="M650,358 V328.75 A54.25,54.25 0 0 1 758.5,328.75 V358" />
+        <path android:fillColor="#FFFFFFFF" android:fillType="evenOdd" android:pathData="M631,358 H778 A14,14 0 0 1 792,372 V465 A14,14 0 0 1 778,479 H631 A14,14 0 0 1 617,465 V372 A14,14 0 0 1 631,358 Z M685,407 H723 A12,12 0 0 1 723,431 H685 A12,12 0 0 1 685,407 Z" />
+    </group>
 </vector>
