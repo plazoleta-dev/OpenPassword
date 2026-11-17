@@ -125,7 +125,7 @@ On GitHub, the CI writes that same file from the secrets `RELEASE_KEYSTORE_BASE6
 requests do not receive secrets: their APK is left unsigned.
 
 Every push to `main` updates the `latest` prerelease; a `v*` tag creates its release. The APK is
-downloaded without an account from <https://github.com/rldona/OpenPassword/releases>. The CI passes
+downloaded without an account from <https://github.com/plazoleta-dev/OpenPassword/releases>. The CI passes
 `-PversionCode` (number of commits, always increasing) and `-PversionName` (the tag or
 `0.1.0-<commit>`), so the new build installs over the previous one. It is signed with the v3
 scheme, which allows rotating the key in the future.

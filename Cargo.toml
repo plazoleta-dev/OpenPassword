@@ -6,7 +6,7 @@ members = ["core", "cli", "ffi"]
 version = "0.1.0"
 edition = "2024"
 rust-version = "1.85"
-repository = "https://github.com/rldona/OpenPassword"
+repository = "https://github.com/plazoleta-dev/OpenPassword"
 license = "GPL-3.0-or-later"
 
 [workspace.lints.rust]

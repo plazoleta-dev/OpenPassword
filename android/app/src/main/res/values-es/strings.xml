@@ -91,7 +91,7 @@
     <string name="kit_restore_step_1">Instala OpenPassword en el teléfono nuevo y elige «%1$s».</string>
     <string name="kit_restore_step_2">Elige tu fichero .opvault (de tu ordenador, una tarjeta SD o tu nube).</string>
     <string name="kit_restore_step_3">Escribe la clave secreta de este papel y tu contraseña maestra.</string>
-    <string name="kit_offline_tool">Sin la app también puedes descifrar la copia con la herramienta de código abierto «opvault decrypt» (github.com/rldona/OpenPassword).</string>
+    <string name="kit_offline_tool">Sin la app también puedes descifrar la copia con la herramienta de código abierto «opvault decrypt» (github.com/plazoleta-dev/OpenPassword).</string>
     <string name="kit_keep_safe_label">GUÁRDALO BIEN</string>
     <string name="kit_keep_safe_1">Imprímelo y guárdalo con tus documentos importantes, o dáselo a alguien de confianza.</string>
     <string name="kit_keep_safe_2">Borra el PDF del teléfono después de imprimirlo. No lo subas a la nube ni le hagas fotos.</string>
@@ -245,7 +245,7 @@
     <string name="settings_no_internet">Sin acceso a Internet</string>
     <string name="settings_no_internet_hint">Esta app no tiene permiso de red. Tus datos solo salen del teléfono en las copias que exportes tú.</string>
     <string name="settings_about_version">OpenPassword %1$s</string>
-    <string name="settings_about_legal">Software libre bajo GPL-3.0-or-later. github.com/rldona/OpenPassword\nFrases de paso con la lista de palabras de la EFF (CC BY 3.0 US).</string>
+    <string name="settings_about_legal">Software libre bajo GPL-3.0-or-later. github.com/plazoleta-dev/OpenPassword\nFrases de paso con la lista de palabras de la EFF (CC BY 3.0 US).</string>
     <string name="settings_secret_key_title">Tu clave secreta</string>
     <string name="settings_secret_key_done">Hecho</string>
     <string name="settings_secret_key_save_kit">Guardar kit PDF</string>

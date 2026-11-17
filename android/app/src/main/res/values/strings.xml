@@ -91,7 +91,7 @@
     <string name="kit_restore_step_1">Install OpenPassword on the new phone and choose «%1$s».</string>
     <string name="kit_restore_step_2">Pick your .opvault file (from your computer, an SD card or your cloud).</string>
     <string name="kit_restore_step_3">Type the secret key from this sheet and your master password.</string>
-    <string name="kit_offline_tool">Without the app you can also decrypt the backup with the open-source tool «opvault decrypt» (github.com/rldona/OpenPassword).</string>
+    <string name="kit_offline_tool">Without the app you can also decrypt the backup with the open-source tool «opvault decrypt» (github.com/plazoleta-dev/OpenPassword).</string>
     <string name="kit_keep_safe_label">KEEP IT SAFE</string>
     <string name="kit_keep_safe_1">Print it and keep it with your important documents, or give it to someone you trust.</string>
     <string name="kit_keep_safe_2">Delete the PDF from the phone after printing it. Do not upload it to the cloud or take photos of it.</string>
@@ -245,7 +245,7 @@
     <string name="settings_no_internet">No internet access</string>
     <string name="settings_no_internet_hint">This app has no network permission. Your data only leaves the phone in the copies you export yourself.</string>
     <string name="settings_about_version">OpenPassword %1$s</string>
-    <string name="settings_about_legal">Free software under GPL-3.0-or-later. github.com/rldona/OpenPassword\nPassphrases use the EFF word list (CC BY 3.0 US).</string>
+    <string name="settings_about_legal">Free software under GPL-3.0-or-later. github.com/plazoleta-dev/OpenPassword\nPassphrases use the EFF word list (CC BY 3.0 US).</string>
     <string name="settings_secret_key_title">Your secret key</string>
     <string name="settings_secret_key_done">Done</string>
     <string name="settings_secret_key_save_kit">Save PDF kit</string>
