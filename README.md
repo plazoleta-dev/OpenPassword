@@ -46,8 +46,8 @@ cd android
 
 Every push to `main` publishes a signed build; `v*` tags create their release:
 
-- Latest build of `main`: <https://github.com/rldona/OpenPassword/releases/download/latest/OpenPassword.apk>
-- Published versions: <https://github.com/rldona/OpenPassword/releases>
+- Latest build of `main`: <https://github.com/plazoleta-dev/OpenPassword/releases/download/latest/OpenPassword.apk>
+- Published versions: <https://github.com/plazoleta-dev/OpenPassword/releases>
 
 The APK is signed with the release key (fingerprint in [`android/README.md`](android/README.md)), so
 it installs over the previous version **without losing the vault**. Do not uninstall it to
@@ -78,7 +78,7 @@ backup is enough without the secret key.
 
 ## Updating
 
-Download the new APK from [Releases](https://github.com/rldona/OpenPassword/releases) and open it, or
+Download the new APK from [Releases](https://github.com/plazoleta-dev/OpenPassword/releases) and open it, or
 install it with `adb`:
 
 ```sh
